@@ -1,0 +1,23 @@
+{
+  "name": "waivy",
+  "version": "1.0.0",
+  "description": "Freight sharing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterdo3r7/waivy.git"
+  },
+  "keywords": [
+    "freight",
+    "sharing"
+  ],
+  "author": "PeterDo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterdo3r7/waivy/issues"
+  },
+  "homepage": "https://github.com/peterdo3r7/waivy#readme"
+}
